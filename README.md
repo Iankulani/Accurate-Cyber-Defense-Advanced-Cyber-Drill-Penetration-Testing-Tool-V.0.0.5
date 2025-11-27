@@ -11,12 +11,15 @@ It is explicitly designed to prevent misuse: the software will not execute tests
 By combining remote convenience with strong ethical controls, this release helps teams validate defenses responsibly, improve detection and response, and foster safer security practices. 
 Contact your administrator for authorized use
 
-**How to clone the repo**
+## How to clone the repo
+```bash
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Advanced-Cyber-Drill-Penetration-Testing-Tool-V.0.0.5.git
 
 cd Accurate-Cyber-Defense-Advanced-Cyber-Drill-Penetration-Testing-Tool-V.0.0.5
-
-**How to run the repo**
+```
+## How to run the repo
+```bash
 
 python Accurate-Cyber-Defense-Advanced-Cyber-Drill-Penetration-Testing-Tool-V.0.0.5.py
+```
